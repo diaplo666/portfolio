@@ -1,0 +1,64 @@
+@font-face {
+    font-family: robot;
+    src: url(Press_Start_2P/PressStart2P-Regular.ttf);
+}
+h1{
+    display: flex;
+    align-items: center;
+    color: blue;
+    font-family:'robot'
+    
+ ;
+    display: flex;
+    align-content: flex-start;
+}
+*{ 
+    background-image: url(Untitled\ design.jpg)
+    
+    /* background-repeat: no-repeat; */
+    /* background-position: center center; */
+    
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    }
+.parent{
+   
+    font-family: 'robot';
+    width: 100%;
+    height: 50px;
+    margin: 0;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    
+    
+}
+.parent div{
+    color:blueviolet;
+}
+
+.LOUGHA{
+    width: 50%;
+    margin: 3%;
+}
+
+div{ background: none;}
+
+.pics{
+    background: none;
+    display: flex;
+    padding: 10px;
+    
+    
+
+}
+.pics div{
+    background: none;
+  
+      
+      
+   
+}
