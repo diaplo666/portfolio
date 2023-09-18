@@ -5,8 +5,9 @@
 h1{
     display: flex;
     align-items: center;
-    color: blue;
+    color: rgb(141, 56, 238);
     font-family:'robot'
+    
     
  ;
     display: flex;
@@ -41,8 +42,13 @@ html, body {
 }
 
 .LOUGHA{
-    width: 50%;
-    margin: 3%;
+    background: none;
+    display: flex;
+    width: 600px;
+    justify-content: end;
+    margin-top: 80px;
+    
+    
 }
 
 div{ background: none;}
@@ -50,8 +56,10 @@ div{ background: none;}
 .pics{
     background: none;
     display: flex;
-    padding: 10px;
-    
+    width: 200px;
+    justify-content: space-between;
+   margin-top: 30px;
+    margin-left: 200px;
     
 
 }
